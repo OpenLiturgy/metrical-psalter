@@ -6,32 +6,32 @@ meter: 8.7.8.7.
 
 --- 
 
-The King of love my shepherd is,  
-whose goodness faileth never.  
-I nothing lack if I am his,  
-and he is mine forever. 
+The King of love my shep -- herd is,  
+whose good -- ness fail -- eth nev -- er.  
+I no -- thing lack if I am his,  
+and he is mine for -- ev -- er. 
 
-Where streams of living water flow,  
-my ransomed soul he leadeth;   
-and where the verdant pastures grow,   
-with food celestial feedeth.  
+Where streams of liv -- ing wat -- er flow,  
+my ran -- somed soul he lead -- eth;   
+and where the ver -- dant pas -- tures grow,   
+with food ce -- les -- tial feed -- eth.  
 
-Perverse and foolish, oft I strayed,  
+Per -- verse and fool -- ish, oft I strayed,  
 but yet in love he sought me;  
-and on his shoulder gently laid,  
-and home, rejoicing, brought me.  
+and on his shoul -- der gent -- ly laid,  
+and home, re -- joic -- ing, brought me.  
 
 In death's dark vale I fear no ill,  
-with thee, dear Lord, beside me;  
-thy rod and staff my comfort still,  
-thy cross before to guide me.  
+with thee, dear Lord, be -- side me;  
+thy rod and staff my com -- fort still,  
+thy cross be -- fore to guide me.  
 
-Thou spreadst a table in my sight;  
-thy unction grace bestoweth;  
-and oh, what transport of delight  
-from thy pure chalice floweth!  
+Thou spreadst a ta -- ble in my sight;  
+thy unc -- tion grace be -- stow -- eth;  
+and oh, what trans -- port of de -- light  
+from thy pure chal -- ice flow -- eth!  
 
 And so through all the length of days,  
-thy goodness faileth never;  
-Good Shepherd, may I sing thy praise  
-within thy house forever.  
+thy good -- ness fail -- eth nev -- er;  
+Good Shep -- herd, may I sing thy praise  
+with -- in thy house for -- ev -- er.  
