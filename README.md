@@ -18,7 +18,7 @@ All contributed texts should be:
  - Hymns which are not (strictly speaking) metrical paraphrases, but are rather inspired by the Psalm should be placed within a subfolder labeled "/inspired-by/".
 
 
- ## Text file format
+## Text file format
  - All files should have the extension .md (markdown), and contain no styling or formatting information.
  - A file header should be included to specify text information such as author, meter, license, portion of psalm (ie, which verses) set, etc. The header should end with three dashes on a single line. 
  - Text should be syllabified, using a double hyphen (this makes it easier to process with Lilypond and other automated score generators).
