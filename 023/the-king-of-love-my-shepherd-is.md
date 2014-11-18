@@ -1,9 +1,9 @@
+---
 title: The King of Love my Shepherd Is  
 author: Henry Williams Baker  
 verses: 1-6 (all)  
 license: Public Domain  
 meter: 8.7.8.7.  
-
 --- 
 
 The King of love my shep -- herd is,  
