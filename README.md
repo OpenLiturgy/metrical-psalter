@@ -20,10 +20,11 @@ All contributed texts should be:
 
 ## Text file format
  - All files should have the extension .md (markdown), and contain no styling or formatting information.
- - A file header should be included to specify text information such as author, meter, license, portion of psalm (ie, which verses) set, etc. The header should end with three dashes on a single line. 
- - Text should be syllabified, using a double hyphen (this makes it easier to process with Lilypond and other automated score generators).
+ - A file header should be included to specify text information such as author, meter, license, portion of psalm (ie, which verses) set, etc. The header should begin and end with three dashes on a single line. 
+ - Text should be syllabified, using a double hyphen and spaces (this makes it easier to process with Lilypond and other automated score generators).
 
 ``` 
+---
 title: The King of Love my Shepherd Is 
 author: Henry Williams Baker 
 verses: 1-6 (all) 
