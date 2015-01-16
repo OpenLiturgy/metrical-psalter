@@ -1,3 +1,4 @@
+---
 title: Ye men on earth, in God rejoice
 author: Thomas Sternhold
 verses: 1-4 (of 20)
